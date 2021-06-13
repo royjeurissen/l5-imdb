@@ -12,12 +12,11 @@
     "homepage": "https://github.com/firmantr3/l5imdb",
     "keywords": ["Laravel", "L5Imdb", "IMDB", "Scrape"],
     "require": {
-        "illuminate/support": "~5",
         "imdbphp/imdbphp": "^6.1"
     },
     "require-dev": {
-        "phpunit/phpunit": "~7.0",
-        "mockery/mockery": "^1.1",
+        "phpunit/phpunit": "^9.3.3",
+        "mockery/mockery": "^1.4.2",
         "orchestra/testbench": "~3.0",
         "sempro/phpunit-pretty-print": "^1.0"
     },
